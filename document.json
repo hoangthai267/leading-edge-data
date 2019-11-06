@@ -1,0 +1,15 @@
+{
+  "Version" : 0,
+  "Array": [
+    {
+      "Name": "MU",
+      "ImageURL": "http://i.imgur.com/EjW5S5L.png",
+      "AssetURL": "https://bitbucket.org/dev8ball/leading-edge-data/raw/2ac853bfcc4c6f9fb93547c053c82c4aca2f35d8/newbundle.unity3d"
+    },
+    {
+      "Name": "FFF",
+      "ImageURL": "https://i.imgur.com/4ljJsjJ.png",
+      "AssetURL": "https://bitbucket.org/dev8ball/leading-edge-data/raw/2ac853bfcc4c6f9fb93547c053c82c4aca2f35d8/newbundle.unity3d"
+    }
+  ]
+}
