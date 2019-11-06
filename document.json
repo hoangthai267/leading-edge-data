@@ -4,12 +4,12 @@
     {
       "Name": "MU",
       "ImageURL": "http://i.imgur.com/EjW5S5L.png",
-      "AssetURL": "https://raw.githubusercontent.com/hoangthai267/leading-edge-data/master/newbundle"
+      "AssetURL": "https://raw.githubusercontent.com/hoangthai267/leading-edge-data/master/mu"
     },
     {
       "Name": "FFF",
       "ImageURL": "https://i.imgur.com/4ljJsjJ.png",
-      "AssetURL": "https://raw.githubusercontent.com/hoangthai267/leading-edge-data/master/newbundle"
+      "AssetURL": "https://raw.githubusercontent.com/hoangthai267/leading-edge-data/master/fff"
     }
   ]
 }
